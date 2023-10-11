@@ -1,0 +1,216 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Pugs",
+      "publisher": "Maru3302",
+      "tray_image_file": "Love-2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "maru.ort.332@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01-Love-2.webp",
+          "emojis": [
+            "❤️",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "02-Clown.webp",
+          "emojis": [
+            "🤡",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "03-F.webp",
+          "emojis": [
+            "😢",
+            "🌨️"
+          ]
+        },
+        {
+          "image_file": "04-Demon.webp",
+          "emojis": [
+            "👹",
+            "😡"
+          ]
+        },
+        {
+          "image_file": "05-Sad.webp",
+          "emojis": [
+            "😢",
+            "☹️"
+          ]
+        },
+        {
+          "image_file": "06-Jajaja-2.webp",
+          "emojis": [
+            "🤣",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "07-Love.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "08-Fight.webp",
+          "emojis": [
+            "🥊",
+            "🔥"
+          ]
+        },
+        {
+          "image_file": "09-Jajaja.webp",
+          "emojis": [
+            "🤣",
+            "😆"
+          ]
+        },
+        {
+          "image_file": "10-Sad-2.webp",
+          "emojis": [
+            "😭",
+            "😖"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Bubu Y Dudu Sanrio",
+      "publisher": "Maru3302",
+      "tray_image_file": "BubuRamen.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "maru.ort.332@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01-BubuChu.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "02-DuduChu.webp",
+          "emojis": [
+            "💛",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "03-BubuKuromi.webp",
+          "emojis": [
+            "😁",
+            "🤭"
+          ]
+        },
+        {
+          "image_file": "04-BubuKuromi2.webp",
+          "emojis": [
+            "🔥",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "05-DuduBaku.webp",
+          "emojis": [
+            "😁",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "06-BubuRamen.webp",
+          "emojis": [
+            "🔥",
+            "🍜"
+          ]
+        },
+        {
+          "image_file": "07-DuduRamen.webp",
+          "emojis": [
+            "😊",
+            "🍜"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Valorant",
+      "publisher": "Maru3302",
+      "tray_image_file": "SageKitty.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "maru.ort.332@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01-ReynaLove.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "02-SageKitty.webp",
+          "emojis": [
+            "😺",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "03-SovaDou.webp",
+          "emojis": [
+            "😟",
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "04-Ratpher.webp",
+          "emojis": [
+            "🐭",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "05-ReinaClown.webp",
+          "emojis": [
+            "🤡",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "06-SovaLol.webp",
+          "emojis": [
+            "🐸",
+            "😲"
+          ]
+        },
+        {
+          "image_file": "07-ReynaCringe.webp",
+          "emojis": [
+            "🤮",
+            "🤢"
+          ]
+        }
+      ]
+    }
+  ]
+}
